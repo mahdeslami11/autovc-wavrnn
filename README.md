@@ -37,7 +37,9 @@ Data Preprocess
 
 Pretrained model
 -----------------
->speaker encoder pretrained model:https://drive.google.com/file/d/1n1sPXvT34yXFLT47QZA6FIRGrwMeSsZc/view
+>speaker encoder pretrained model: https://drive.google.com/file/d/1n1sPXvT34yXFLT47QZA6FIRGrwMeSsZc/view.
+
+>the autoVC-WavRNN model which trained by mixed VCTK dataset and VCC2020 dataset is in the folder of ```/model```, please choose all >rar files and decompression.
 
 AutoVC Training step
 -----------------
@@ -48,6 +50,10 @@ AutoVC Training step
 WavRNN Training step
 -----------------
 >try: ```python vocoder_train.py my_vocoder /data/ -g```
+
+Inference
+-----------------
+>try:```python convert.py```
 
 Relevent Repositories
 -----------------
