@@ -53,5 +53,5 @@ Relevent Repositories
 
 Relevent Paper
 -----------------
-AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss https://arxiv.org/abs/1905.05879
+>AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss https://arxiv.org/abs/1905.05879
 
