@@ -7,6 +7,10 @@ Audio Demo
 -----------------
 >The audio demo for AUTOVC-WavRNN can be found in results.
 
+![image](http://github.com/freenowill/AutoVC-WavRNN/raw/master/picture/orignal.png "Orignal spectrogram")
+
+![image](http://github.com/freenowill/AutoVC-WavRNN/raw/master/picture/generate.png "Generate spectrogram")
+
 Data Preprocess
 -----------------
 >To get the audio: 
