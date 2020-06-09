@@ -35,6 +35,10 @@ Data Preprocess
 
 >try: ```python synthesizer_preprocess_embeds.py /data/SV2TTS_autovc-ttsdb/synthesizer_vad -e pretrained.pt``` to preprocess speaker embedding
 
+Pretrained model
+-----------------
+>speaker encoder pretrained model:https://drive.google.com/file/d/1n1sPXvT34yXFLT47QZA6FIRGrwMeSsZc/view
+
 AutoVC Training step
 -----------------
 >the AutoVC training step is included in the ```autovc_train.py```, the model of AutoVC included in the ```model_vc.py```.
