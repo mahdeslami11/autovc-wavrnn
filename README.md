@@ -1,6 +1,12 @@
 # AutoVC-WavRNN
 >voice conversion system
 
+>This repository provides a PyTorch implementation of AutoVC-WavRNN 
+
+Audio Demo
+-----------------
+>The audio demo for AUTOVC-WavRNN can be found in results.
+
 Data Preprocess
 -----------------
 >To get the audio: 
@@ -31,7 +37,7 @@ Data Preprocess
 
 AutoVC Training step
 -----------------
->the AutoVC training step is include in the ```autovc_train.py```, the model of AutoVC include in the ```model_vc.py```.
+>the AutoVC training step is included in the ```autovc_train.py```, the model of AutoVC included in the ```model_vc.py```.
 
 >try: ```python autovc_train.py autovc-vcc2020 /data -g```
 
