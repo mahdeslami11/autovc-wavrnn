@@ -68,5 +68,12 @@ Relevent Repositories
 
 Relevent Paper
 -----------------
->AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss https://arxiv.org/abs/1905.05879
-
+non-parallel many-to-many voice conversion, as well as zero-shot voice conversion, remain under- explored areas. Deep style transfer algorithms, such as generative adversarial networks (GAN) and conditional variational autoencoder (CVAE), are being applied as new solutions in this field. However, GAN training is sophisticated and diffi- cult, and there is no strong evidence that its gen- erated speech is of good perceptual quality.. On the other hand, CVAE training is simple but does not come with the distribution-matching property of a GAN. In this paper, we propose a new style transfer scheme that involves only an autoencoder with a carefully designed bottleneck. We formally show that this scheme can achieve distribution- matching style transfer by training only on a self- reconstruction loss. Based on this scheme, we proposed AUTOVC, which achieves state-of-the- art results in many-to many voice conversion with non-parallel data, and which is the first to perform zero-shot voice conversion.
+First, most voice conversion systems assume the availability of parallel training data speech pairs where the two speakers utter the same sentences. Only a few can be trained on non-parallel data. Second, among the few existing algorithms that work on non-parallel data, even fewer can work for many-to-many conversion, i.e. converting from multiple source speakers to multiple target speakers. Last but not least, no voice conver- sion systems are able to perform zero-shot conversion, i.e. conversion to the voice of an unseen speaker by looking at only a few of his/her utterances
+no change was made.
+https://1drv.ms/v/s!AjJEvYoU3ZQOeaX5sBlNrmBUwco
+https://1drv.ms/b/s!AjJEvYoU3ZQOei_ja4cqd5N-KnQ 
+https://github.com/freenowill/AutoVC-WavRNN
+Hadis Mahmoudi Bardzard, a master's student in medical engineering, majoring in bioelectricity. Project number 31 Titled zero-shot voice style conversion with only auto-encoder loss
+https://1drv.ms/b/s!AjJEvYoU3ZQOe-zUlwbufIhIM9k
+https://1drv.ms/v/s!AjJEvYoU3ZQOdeVebl3jjuVU9O4 https://1drv.ms/v/s!AjJEvYoU3ZQOdgIJcKN6c4z7lBE https://1drv.ms/v/s!AjJEvYoU3ZQOeaX5sBlNrmBUwco
