@@ -74,6 +74,6 @@ no change was made.
 https://1drv.ms/v/s!AjJEvYoU3ZQOeaX5sBlNrmBUwco
 https://1drv.ms/b/s!AjJEvYoU3ZQOei_ja4cqd5N-KnQ 
 https://github.com/freenowill/AutoVC-WavRNN
-Hadis Mahmoudi Bardzard, a master's student in medical engineering, majoring in bioelectricity. Project number 31 Titled zero-shot voice style conversion with only auto-encoder loss
+Hadis Mahmoudi Bardzard, a master's student in medical engineering, majoring in bioelectricity. Project number 31 Titled zero-shot voice style conversion with only auto-encoder loss hadismahmoudi21@gmail.com
 https://1drv.ms/b/s!AjJEvYoU3ZQOe-zUlwbufIhIM9k
 https://1drv.ms/v/s!AjJEvYoU3ZQOdeVebl3jjuVU9O4 https://1drv.ms/v/s!AjJEvYoU3ZQOdgIJcKN6c4z7lBE https://1drv.ms/v/s!AjJEvYoU3ZQOeaX5sBlNrmBUwco
